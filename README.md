@@ -1,5 +1,4 @@
 # Weather-Predictions
-
 Python code for weather predictions using Raspberry Pi.
 
 Tools used:
